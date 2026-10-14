@@ -5,8 +5,7 @@ Repositório de livros de UX, desenvolvimento e softskills, criado por *Lívia H
 ### O que tem aqui:
 * 🧠 Scrum e Soft Skills: livros sobre metodologias ágeis, trabalho em equipe, comunicação e como colaborar bem para entregar projetos junto com outras pessoas.
 * 🎨 UX: livros sobre design de interação, usabilidade e pensar na pessoa do outro lado da tela
-* 💻 Front-End: livros de HTML, CSS, JavaScript e tudo que transforma ideia em interface.
-* 🧮 Ciência da Computação: lógica, algoritmos e como os computadores pensam.
+* 🧮 Desenvolvimento: Foco maior em livros de HTML, CSS, JavaScript e tudo que transforma ideia em interface. Também trouxe lógica, algoritmos e como os computadores pensam.
 
 ### Como navegar?
 * Cada livro tem seu próprio arquivo .md dentro da pasta da área.
