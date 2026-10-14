@@ -1,7 +1,22 @@
-## 📚 Biblioteca da Lívia
+## 💜 Biblioteca de UX e Front-End: Livros e Estudos
 
-Meu espaço pra guardar os livros de UX e desenvolvimento que eu leio, já li ou quero ler. ✨
+Repositório de livros de UX e desenvolvimento, criado por *Lívia Helena*, com foco em experiência do usuário, lógica, código e ciência da computação. Cada livro entra aqui com o que eu aprendi e como isso se aplica no mundo real.
 
-Aqui o foco é UX e Front-End, sempre apoiados em lógica, código e ciência da computação. 🎓
+O que tem aqui
+-- 🎨 UX: livros sobre design de interação, usabilidade e pensar na pessoa do outro lado da tela.
+-- 💻 Front-End: livros de HTML, CSS, JavaScript e tudo que transforma ideia em interface.
+-- 🧠 Ciência da Computação: lógica, algoritmos e como os computadores pensam.
 
-- Esse repositório é meu, de Lívia Helena Alves Rocha 💜
+
+Status: já li, estou lendo ou quero ler
+Autor(a) e nota
+O que aprendi
+Trechos e ideias que quero guardar
+Como aplicar no meu trabalho
+Como usar
+
+Cada livro tem seu próprio arquivo .md dentro da pasta da área. Para adicionar um novo:
+
+1. Escolha a pasta (ux ou ciencia-da-computacao)
+2. Crie um arquivo com o nome do livro
+3. Preencha com as anotações
