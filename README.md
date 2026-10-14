@@ -8,14 +8,6 @@ Repositório de livros de UX, desenvolvimento e softskills, criado por *Lívia H
 * 💻 Front-End: livros de HTML, CSS, JavaScript e tudo que transforma ideia em interface.
 * 🧮 Ciência da Computação: lógica, algoritmos e como os computadores pensam.
 
-
-Status: já li, estou lendo ou quero ler
-Autor(a) e nota
-O que aprendi
-Trechos e ideias que quero guardar
-Como aplicar no meu trabalho
-Como usar
-
 ### Como navegar?
 Cada livro tem seu próprio arquivo .md dentro da pasta da área.
 
