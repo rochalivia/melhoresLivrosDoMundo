@@ -17,8 +17,8 @@ Como aplicar no meu trabalho
 Como usar
 
 ### Como navegar?
-Cada livro tem seu próprio arquivo .md dentro da pasta da área. Para adicionar um novo:
+Cada livro tem seu próprio arquivo .md dentro da pasta da área.
 
 1. Escolha a pasta (ux, ciencia-da-computacao ou softskills)
-2. Crie um arquivo com o nome do livro
-3. Preencha com as anotações
+2. Baixe o Livro
+3. Seja feliz!
