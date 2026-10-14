@@ -2,10 +2,10 @@
 
 Repositório de livros de UX e desenvolvimento, criado por *Lívia Helena*, com foco em experiência do usuário, lógica, código e ciência da computação. Cada livro entra aqui com o que eu aprendi e como isso se aplica no mundo real.
 
-O que tem aqui
--- 🎨 UX: livros sobre design de interação, usabilidade e pensar na pessoa do outro lado da tela.
--- 💻 Front-End: livros de HTML, CSS, JavaScript e tudo que transforma ideia em interface.
--- 🧠 Ciência da Computação: lógica, algoritmos e como os computadores pensam.
+### O que tem aqui:
+* 🎨 UX: livros sobre design de interação, usabilidade e pensar na pessoa do outro lado da tela
+*  💻 Front-End: livros de HTML, CSS, JavaScript e tudo que transforma ideia em interface.
+* 💻 Ciência da Computação: lógica, algoritmos e como os computadores pensam.
 
 
 Status: já li, estou lendo ou quero ler
