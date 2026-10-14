@@ -15,6 +15,7 @@ Trechos e ideias que quero guardar
 Como aplicar no meu trabalho
 Como usar
 
+### Como navegar?
 Cada livro tem seu próprio arquivo .md dentro da pasta da área. Para adicionar um novo:
 
 1. Escolha a pasta (ux ou ciencia-da-computacao)
